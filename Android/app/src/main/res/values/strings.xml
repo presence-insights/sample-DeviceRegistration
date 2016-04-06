@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PI Registration</string>
+    <string name="action_settings">Settings</string>
+    <string name="register">Register Device</string>
+    <string name="unregister">Unregister Device</string>
+
+    <!-- Settings -->
+    <string name="tenant">Tenant Code</string>
+    <string name="org">Org Code</string>
+    <string name="user">Username</string>
+    <string name="password">Password</string>
+    <string name="user_summary">A username from the Presence Insights credentials</string>
+    <string name="password_summary">A password from the Presence Insights credentials</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- JSON vars -->
+    <string name="name">Name:</string>
+    <string name="blacklist">Blacklist:</string>
+    <string name="registration_type">Registration Type:</string>
+    <string name="data">Data:</string>
+    <string name="unencrypted_data">Unencrypted Data:</string>
+    <string name="radio_true">True</string>
+    <string name="radio_false">False</string>
+    <string name="radio_internal">Internal</string>
+    <string name="radio_external">External</string>
+    <string name="key">Key</string>
+    <string name="value">Value</string>
+    <string name="addRow">+</string>
+
+</resources>
